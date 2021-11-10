@@ -12,4 +12,4 @@
 * 💬 Feel free to look through my profile and message me if you want to disuss anything!
 
 
- ![image](https://user-images.githubusercontent.com/51979703/141210625-3439464d-a865-4c1a-b88d-4bc4885fd436.png)
+  ![image](https://user-images.githubusercontent.com/51979703/141210625-3439464d-a865-4c1a-b88d-4bc4885fd436.png)

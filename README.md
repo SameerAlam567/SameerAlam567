@@ -3,7 +3,7 @@
 
 * ✍🏽 I’m currently a student at Rowan University majoring in Computing and Informatics with a concentration in Cyber Security!
 
-* 🧑🏽‍🔧 I mainly dabble in Front-End Development but also have experience in Full Stack, IT, Database, UI/UX, and even Game Development!
+* 🧑🏽‍🔧 I mainly focus on Front-End Development but also have experience in Full Stack, IT, Database, UI/UX, and even Game Development!
 
 * 👨🏽‍💻 Coding Languages Programs I have experience with: Java, Javascript, C++, HTML, CSS, PHP, and Bash/Shell/PowerShell.
 

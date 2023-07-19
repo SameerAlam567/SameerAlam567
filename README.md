@@ -1,9 +1,9 @@
 
 👋🏽 Hey There, I'm Sameer!
 
-* ✍🏽 I’m a recent graduate of Rowan University with a degree in Computing and Informatics and a concentration in Cyber Security!
+* ✍🏽 Rowan University graduate with a bachelor's degree in Computing and Informatics and a concentration in Cyber Security!
 
-* 🧑🏽‍🔧 I mainly focus on Front-End Development and IT but also have experience in Full Stack, Database, UI/UX, and even Game Development!
+* 🧑🏽‍🔧 I mainly focus on Front-End Development, Design, and IT but I also have experience in Full Stack, Database, UI/UX, and even Game Development!
 
 * 👨🏽‍💻 Coding Languages Programs I have experience with: Java, Javascript, C++, HTML, CSS, PHP, and Bash/Shell/PowerShell.
 

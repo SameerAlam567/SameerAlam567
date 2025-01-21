@@ -7,7 +7,7 @@
 
 * 👨🏽‍💻 Coding Languages Programs I have experience with: Java, Javascript, C++, HTML, CSS, PHP, and Bash/Shell/PowerShell.
 
-* 👨🏽‍🏫 Softwares I have experience with: MS Visual Studio/Visual Studio Code, Atom, Node.js, MATLAB, Photoshop, Illustrator, and Gimp.
+* 👨🏽‍🏫 Softwares I have experience with: MS Visual Studio/Visual Studio Code, Node.js, MATLAB, Photoshop, Illustrator, and Gimp.
 
 * 💬 Feel free to review my profile and message me if you want to discuss anything!
 
